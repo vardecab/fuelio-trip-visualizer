@@ -7,7 +7,7 @@
 # core ↓
 import gpxpy # parsing and manipulating GPX files (XML based format for GPS tracks)
 import folium # visualize data on a Leaflet map 
-from folium.plugins import HeatMap
+# from folium.plugins import HeatMap
 
 # other ↓
 import os # work with files in a folder
