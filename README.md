@@ -1,6 +1,6 @@
 # fuelio-trip-visualizer
 
-![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)
+![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)
 <br>
 ![](https://img.shields.io/badge/platform-Windows-blue)
 
